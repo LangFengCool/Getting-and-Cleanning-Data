@@ -23,3 +23,5 @@ Step 5: Creates a 2nd, independent tidy data set with the average of each variab
 Use data <- read.table("Cleaned_TidyData.txt.txt") to read the data, this is the result dataset I uploaded. 
 
 It is 180x68 because there are 30 subjects and 6 activities
+
+# Please Note: if the uploaded txt file cannot be viewed, the full dataset can be seen in the dataset
