@@ -24,4 +24,4 @@ Use data <- read.table("Cleaned_TidyData.txt.txt") to read the data, this is the
 
 It is 180x68 because there are 30 subjects and 6 activities
 
-# Please Note: if the uploaded txt file cannot be viewed, the full dataset can be seen in the dataset
+# Please Note: if the uploaded txt file cannot be viewed, the full dataset can be seen in the Cleaned_TidyData of this GitHub
